@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dyoldzrrj
+  api_key: '517823777631466'
+  api_secret: DVb_dKttNFGPf0lUKY1goerXTRk
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: dyoldzrrj
+  api_key: '517823777631466'
+  api_secret: DVb_dKttNFGPf0lUKY1goerXTRk
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: dyoldzrrj
+  api_key: '517823777631466'
+  api_secret: DVb_dKttNFGPf0lUKY1goerXTRk
+  enhance_image_tag: true
+  static_image_support: false
